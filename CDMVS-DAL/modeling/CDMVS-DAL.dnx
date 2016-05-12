@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational 建模平台（com.ibm.xtools.rmp）" url="" version="7.0.0"/></signature>?>
+<umlnotation:UMLDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xmi:id="_atqYgBgGEeamrrO2mgRWtw" type="Class" name="CDMVS-DAL.dnx">
+  <eAnnotations xmi:id="_atqYgRgGEeamrrO2mgRWtw" source="com.ibm.xtools.common.ui.reduction.editingCapabilities">
+    <details xmi:id="_atqYghgGEeamrrO2mgRWtw" key="com.ibm.xtools.activities.javaVisualizerActivity" value="1"/>
+  </eAnnotations>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_c9rroBgMEeaSmcCkFFv7Tg" visible="false" fontName="Ubuntu" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_c9rrohgMEeaSmcCkFFv7Tg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_c9rroxgMEeaSmcCkFFv7Tg" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_c9sSsBgMEeaSmcCkFFv7Tg" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_c9sSsRgMEeaSmcCkFFv7Tg" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_c9sSshgMEeaSmcCkFFv7Tg" type="Parent"/>
+    <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_c9sSsxgMEeaSmcCkFFv7Tg" type="PackageContents" collapsed="true" canonical="false"/>
+    <element xmi:type="uml:Package" href="mmi:///#jpack%5Ename=ac.sari.damvs.dal.db%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CDMVS-DAL%5D%5D$uml.Package"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_c9rroRgMEeaSmcCkFFv7Tg" x="28512" y="924"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_cnVBIBgMEeaSmcCkFFv7Tg" fontName="Ubuntu" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_cnVoMBgMEeaSmcCkFFv7Tg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_cnVoMRgMEeaSmcCkFFv7Tg" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_cnVoMhgMEeaSmcCkFFv7Tg" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_cnVoMxgMEeaSmcCkFFv7Tg" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_cnWPQBgMEeaSmcCkFFv7Tg" type="Parent"/>
+    <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_cnWPQRgMEeaSmcCkFFv7Tg" type="PackageContents" collapsed="true" canonical="false"/>
+    <element xmi:type="uml:Package" href="mmi:///#jpack%5Ename=ac.sari.cdmvs.dal.dao%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CDMVS-DAL%5D%5D$uml.Package"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cnVBIRgMEeaSmcCkFFv7Tg" x="13596" y="1188"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_aG7g8BgMEeaSmcCkFFv7Tg" visible="false" fontName="Ubuntu" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_aHAZcBgMEeaSmcCkFFv7Tg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_aHAZcRgMEeaSmcCkFFv7Tg" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_aHBAgBgMEeaSmcCkFFv7Tg" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_aHBAgRgMEeaSmcCkFFv7Tg" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_aHBnkBgMEeaSmcCkFFv7Tg" type="Parent"/>
+    <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_aHEq4BgMEeaSmcCkFFv7Tg" type="PackageContents" collapsed="true" canonical="false"/>
+    <element xmi:type="uml:Package" href="mmi:///#jpack%5Ename=ac.sari.cdmvs.dal.bean%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CDMVS-DAL%5D%5D$uml.Package"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_aG7g8RgMEeaSmcCkFFv7Tg" x="6468" y="2244"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_a3XfYBgMEeaSmcCkFFv7Tg" visible="false" fontName="Ubuntu" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_a3Z7oBgMEeaSmcCkFFv7Tg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_a3Z7oRgMEeaSmcCkFFv7Tg" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_a3Z7ohgMEeaSmcCkFFv7Tg" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_a3Z7oxgMEeaSmcCkFFv7Tg" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_a3aisBgMEeaSmcCkFFv7Tg" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_a3bw0BgMEeaSmcCkFFv7Tg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_a3dmABgMEeaSmcCkFFv7Tg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_a3eNEBgMEeaSmcCkFFv7Tg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=FileInfo%5Bjcu%5Ename=FileInfo.java%5Bjpack%5Ename=ac.sari.cdmvs.dal.bean%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CDMVS-DAL%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_a3XfYRgMEeaSmcCkFFv7Tg" x="11088" y="1848"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_bhW3kBgMEeaSmcCkFFv7Tg" visible="false" fontName="Ubuntu" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_bhXeoBgMEeaSmcCkFFv7Tg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_bhXeoRgMEeaSmcCkFFv7Tg" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_bhXeohgMEeaSmcCkFFv7Tg" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_bhYFsBgMEeaSmcCkFFv7Tg" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_bhYFsRgMEeaSmcCkFFv7Tg" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_bhYFshgMEeaSmcCkFFv7Tg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_bhYswBgMEeaSmcCkFFv7Tg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_bhYswRgMEeaSmcCkFFv7Tg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=UserGroup%5Bjcu%5Ename=UserGroup.java%5Bjpack%5Ename=ac.sari.cdmvs.dal.bean%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CDMVS-DAL%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bhW3kRgMEeaSmcCkFFv7Tg" x="924" y="5676"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_cD484BgMEeaSmcCkFFv7Tg" visible="false" fontName="Ubuntu" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_cD5j8BgMEeaSmcCkFFv7Tg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_cD5j8RgMEeaSmcCkFFv7Tg" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_cD5j8hgMEeaSmcCkFFv7Tg" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_cD6LABgMEeaSmcCkFFv7Tg" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_cD6LARgMEeaSmcCkFFv7Tg" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_cD6LAhgMEeaSmcCkFFv7Tg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_cD6yEBgMEeaSmcCkFFv7Tg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_cD6yERgMEeaSmcCkFFv7Tg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=UserInfo%5Bjcu%5Ename=UserInfo.java%5Bjpack%5Ename=ac.sari.cdmvs.dal.bean%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CDMVS-DAL%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cD484RgMEeaSmcCkFFv7Tg" x="1980" y="9504"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_hbIuYBgMEeaSmcCkFFv7Tg" visible="false" fontName="Ubuntu" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_hbJVcBgMEeaSmcCkFFv7Tg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_hbJVcRgMEeaSmcCkFFv7Tg" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_hbJ8gBgMEeaSmcCkFFv7Tg" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_hbJ8gRgMEeaSmcCkFFv7Tg" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_hbKjkBgMEeaSmcCkFFv7Tg" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_hbKjkRgMEeaSmcCkFFv7Tg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_hbLKoBgMEeaSmcCkFFv7Tg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_hbLKoRgMEeaSmcCkFFv7Tg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=FileData%5Bjcu%5Ename=FileData.java%5Bjpack%5Ename=ac.sari.cdmvs.dal.bean%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CDMVS-DAL%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hbIuYRgMEeaSmcCkFFv7Tg" x="12408" y="4356"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_CQlE8BgOEeaSmcCkFFv7Tg" visible="false" fontName="Ubuntu" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_CQlsABgOEeaSmcCkFFv7Tg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_CQlsARgOEeaSmcCkFFv7Tg" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_CQlsAhgOEeaSmcCkFFv7Tg" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_CQlsAxgOEeaSmcCkFFv7Tg" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_CQlsBBgOEeaSmcCkFFv7Tg" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_CQlsBRgOEeaSmcCkFFv7Tg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_CQmTEBgOEeaSmcCkFFv7Tg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_CQmTERgOEeaSmcCkFFv7Tg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=DataAttrbt%5Bjcu%5Ename=DataAttrbt.java%5Bjpack%5Ename=ac.sari.cdmvs.dal.bean%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CDMVS-DAL%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_CQlE8RgOEeaSmcCkFFv7Tg" x="11748" y="12144"/>
+  </children>
+  <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_yQt5gBgOEeaSmcCkFFv7Tg" visible="false" fontName="Ubuntu" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label" useClassifierShape="true">
+    <children xmi:type="notation:DecorationNode" xmi:id="_yQugkBgOEeaSmcCkFFv7Tg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_yQugkRgOEeaSmcCkFFv7Tg" width="530" height="530"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_yQugkhgOEeaSmcCkFFv7Tg" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_yQugkxgOEeaSmcCkFFv7Tg" type="Kind"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_yQuglBgOEeaSmcCkFFv7Tg" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_yQuglRgOEeaSmcCkFFv7Tg" type="Parent"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_yQyK8BgOEeaSmcCkFFv7Tg" type="AttributeCompartment"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_yQyK8RgOEeaSmcCkFFv7Tg" type="OperationCompartment"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_yQyyABgOEeaSmcCkFFv7Tg" visible="false" type="SignalCompartment"/>
+    <element xmi:type="uml:Interface" href="mmi:///#jsrctype%5Ename=IBean%5Bjcu%5Ename=IBean.java%5Bjpack%5Ename=ac.sari.cdmvs.dal.bean%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CDMVS-DAL%5D%5D%5D%5D$uml.Interface"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yQt5gRgOEeaSmcCkFFv7Tg" x="9636" y="8844"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_2j7bIBgOEeaSmcCkFFv7Tg" visible="false" fontName="Ubuntu" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_2j8CMBgOEeaSmcCkFFv7Tg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_2j8CMRgOEeaSmcCkFFv7Tg" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_2j8CMhgOEeaSmcCkFFv7Tg" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_2j8CMxgOEeaSmcCkFFv7Tg" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_2j8CNBgOEeaSmcCkFFv7Tg" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_2j8CNRgOEeaSmcCkFFv7Tg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_2j8pQBgOEeaSmcCkFFv7Tg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_2j8pQRgOEeaSmcCkFFv7Tg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=ActionInfo%5Bjcu%5Ename=ActionInfo.java%5Bjpack%5Ename=ac.sari.cdmvs.dal.bean%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CDMVS-DAL%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2j7bIRgOEeaSmcCkFFv7Tg" x="5676" y="12672"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_X19cgBgPEeaSmcCkFFv7Tg" visible="false" fontName="Ubuntu" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_X19cghgPEeaSmcCkFFv7Tg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_X19cgxgPEeaSmcCkFFv7Tg" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_X19chBgPEeaSmcCkFFv7Tg" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_X19chRgPEeaSmcCkFFv7Tg" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_X1-DkBgPEeaSmcCkFFv7Tg" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_X1-DkRgPEeaSmcCkFFv7Tg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_X1-DkhgPEeaSmcCkFFv7Tg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_X1-DkxgPEeaSmcCkFFv7Tg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=DataDictionary%5Bjcu%5Ename=DataDictionary.java%5Bjpack%5Ename=ac.sari.cdmvs.dal.bean%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CDMVS-DAL%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_X19cgRgPEeaSmcCkFFv7Tg" x="14552" y="9260"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_VN1HMBgQEeaSmcCkFFv7Tg" visible="false" fontName="Ubuntu" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_VN1uQBgQEeaSmcCkFFv7Tg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_VN1uQRgQEeaSmcCkFFv7Tg" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_VN1uQhgQEeaSmcCkFFv7Tg" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_VN1uQxgQEeaSmcCkFFv7Tg" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_VN1uRBgQEeaSmcCkFFv7Tg" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_VN1uRRgQEeaSmcCkFFv7Tg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_VN2VUBgQEeaSmcCkFFv7Tg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_VN2VURgQEeaSmcCkFFv7Tg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=CollectionCatalog%5Bjcu%5Ename=CollectionCatalog.java%5Bjpack%5Ename=ac.sari.cdmvs.dal.bean%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CDMVS-DAL%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VN1HMRgQEeaSmcCkFFv7Tg" x="1056" y="2112"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_AtxuEBgREeaSmcCkFFv7Tg" visible="false" fontName="Ubuntu" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_AtyVIBgREeaSmcCkFFv7Tg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_AtyVIRgREeaSmcCkFFv7Tg" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_AtyVIhgREeaSmcCkFFv7Tg" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_AtyVIxgREeaSmcCkFFv7Tg" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_AtyVJBgREeaSmcCkFFv7Tg" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_AtyVJRgREeaSmcCkFFv7Tg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_Aty8MBgREeaSmcCkFFv7Tg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_Aty8MRgREeaSmcCkFFv7Tg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=ActionGroup%5Bjcu%5Ename=ActionGroup.java%5Bjpack%5Ename=ac.sari.cdmvs.dal.bean%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CDMVS-DAL%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_AtxuERgREeaSmcCkFFv7Tg" x="132" y="12144"/>
+  </children>
+  <element xsi:nil="true"/>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_a4s8IBgMEeaSmcCkFFv7Tg" visible="false" type="OwnedElement" source="_aG7g8BgMEeaSmcCkFFv7Tg" target="_a3XfYBgMEeaSmcCkFFv7Tg" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_a4s8IRgMEeaSmcCkFFv7Tg" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_bhmIIBgMEeaSmcCkFFv7Tg" visible="false" type="OwnedElement" source="_aG7g8BgMEeaSmcCkFFv7Tg" target="_bhW3kBgMEeaSmcCkFFv7Tg" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_bhmIIRgMEeaSmcCkFFv7Tg" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_cEFxMBgMEeaSmcCkFFv7Tg" visible="false" type="OwnedElement" source="_aG7g8BgMEeaSmcCkFFv7Tg" target="_cD484BgMEeaSmcCkFFv7Tg" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_cEFxMRgMEeaSmcCkFFv7Tg" points="[-130, 937, 5086, -6231]$[-130, 3169, 5086, -3999]$[-4621, 3169, 595, -3999]$[-4621, 6350, 595, -818]"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_hbQDIBgMEeaSmcCkFFv7Tg" visible="false" type="OwnedElement" source="_aG7g8BgMEeaSmcCkFFv7Tg" target="_hbIuYBgMEeaSmcCkFFv7Tg" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_hbQDIRgMEeaSmcCkFFv7Tg" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_CQqkgBgOEeaSmcCkFFv7Tg" visible="false" type="OwnedElement" source="_aG7g8BgMEeaSmcCkFFv7Tg" target="_CQlE8BgOEeaSmcCkFFv7Tg" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_CQqkgRgOEeaSmcCkFFv7Tg" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_yWNdgBgOEeaSmcCkFFv7Tg" visible="false" type="OwnedElement" source="_aG7g8BgMEeaSmcCkFFv7Tg" target="_yQt5gBgOEeaSmcCkFFv7Tg" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_yWNdgRgOEeaSmcCkFFv7Tg" points="[928, 937, -1433, -5571]$[928, 3210, -1433, -3298]$[2496, 3210, 135, -3298]$[2496, 5690, 135, -818]"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_2kA6sBgOEeaSmcCkFFv7Tg" visible="false" type="OwnedElement" source="_aG7g8BgMEeaSmcCkFFv7Tg" target="_2j7bIBgOEeaSmcCkFFv7Tg" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_2kA6sRgOEeaSmcCkFFv7Tg" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_2kCv4BgOEeaSmcCkFFv7Tg" visible="false" source="_2j7bIBgOEeaSmcCkFFv7Tg" target="_yQt5gBgOEeaSmcCkFFv7Tg" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_2kDW8BgOEeaSmcCkFFv7Tg" type="NameLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_2kDW8hgOEeaSmcCkFFv7Tg" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_2kDW8xgOEeaSmcCkFFv7Tg" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2kDW8RgOEeaSmcCkFFv7Tg" y="-186"/>
+    </children>
+    <element xmi:type="uml:InterfaceRealization" href="mmi:///#jimpl%5Bjsrctype%5Ename=ActionInfo%5Bjcu%5Ename=ActionInfo.java%5Bjpack%5Ename=ac.sari.cdmvs.dal.bean%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CDMVS-DAL%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=IBean%5Bjcu%5Ename=IBean.java%5Bjpack%5Ename=ac.sari.cdmvs.dal.bean%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CDMVS-DAL%5D%5D%5D%5D%5D$uml.InterfaceRealization"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_2kCv4RgOEeaSmcCkFFv7Tg" points="[-647, 818, 2587, -3274]$[-647, 1811, 2587, -2281]$[-2588, 1811, 646, -2281]$[-2588, 3274, 646, -818]"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_LSCo8BgPEeaSmcCkFFv7Tg" id="(0.3560747663551402,0.056289488799540495)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_5uJUYBgOEeaSmcCkFFv7Tg" visible="false" source="_CQlE8BgOEeaSmcCkFFv7Tg" target="_yQt5gBgOEeaSmcCkFFv7Tg" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_5uJ7cBgOEeaSmcCkFFv7Tg" type="NameLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_5uJ7chgOEeaSmcCkFFv7Tg" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_5uJ7cxgOEeaSmcCkFFv7Tg" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5uJ7cRgOEeaSmcCkFFv7Tg" y="-186"/>
+    </children>
+    <element xmi:type="uml:InterfaceRealization" href="mmi:///#jimpl%5Bjsrctype%5Ename=DataAttrbt%5Bjcu%5Ename=DataAttrbt.java%5Bjpack%5Ename=ac.sari.cdmvs.dal.bean%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CDMVS-DAL%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=IBean%5Bjcu%5Ename=IBean.java%5Bjpack%5Ename=ac.sari.cdmvs.dal.bean%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CDMVS-DAL%5D%5D%5D%5D%5D$uml.InterfaceRealization"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_5uJUYRgOEeaSmcCkFFv7Tg" points="[-15, -31, 145, 249]$[-121, -259, 39, 21]"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_6TrDUBgOEeaSmcCkFFv7Tg" visible="false" source="_hbIuYBgMEeaSmcCkFFv7Tg" target="_yQt5gBgOEeaSmcCkFFv7Tg" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_6TrqYBgOEeaSmcCkFFv7Tg" type="NameLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_6TrqYhgOEeaSmcCkFFv7Tg" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_6TrqYxgOEeaSmcCkFFv7Tg" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6TrqYRgOEeaSmcCkFFv7Tg" y="-186"/>
+    </children>
+    <element xmi:type="uml:InterfaceRealization" href="mmi:///#jimpl%5Bjsrctype%5Ename=FileData%5Bjcu%5Ename=FileData.java%5Bjpack%5Ename=ac.sari.cdmvs.dal.bean%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CDMVS-DAL%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=IBean%5Bjcu%5Ename=IBean.java%5Bjpack%5Ename=ac.sari.cdmvs.dal.bean%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CDMVS-DAL%5D%5D%5D%5D%5D$uml.InterfaceRealization"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_6TrDURgOEeaSmcCkFFv7Tg" points="[-518, 818, 2320, -3670]$[-518, 2244, 2320, -2244]$[-2418, 2244, 420, -2244]$[-2418, 3670, 420, -818]"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_603E0BgOEeaSmcCkFFv7Tg" visible="false" source="_cD484BgMEeaSmcCkFFv7Tg" target="_yQt5gBgOEeaSmcCkFFv7Tg" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_603r4BgOEeaSmcCkFFv7Tg" type="NameLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_603r4hgOEeaSmcCkFFv7Tg" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_603r4xgOEeaSmcCkFFv7Tg" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_603r4RgOEeaSmcCkFFv7Tg" y="-186"/>
+    </children>
+    <element xmi:type="uml:InterfaceRealization" href="mmi:///#jimpl%5Bjsrctype%5Ename=UserInfo%5Bjcu%5Ename=UserInfo.java%5Bjpack%5Ename=ac.sari.cdmvs.dal.bean%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CDMVS-DAL%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=IBean%5Bjcu%5Ename=IBean.java%5Bjpack%5Ename=ac.sari.cdmvs.dal.bean%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CDMVS-DAL%5D%5D%5D%5D%5D$uml.InterfaceRealization"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_603E0RgOEeaSmcCkFFv7Tg" points="[4, -31, -53, 344]$[35, -344, -22, 31]"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_7Sc_wBgOEeaSmcCkFFv7Tg" visible="false" source="_bhW3kBgMEeaSmcCkFFv7Tg" target="_yQt5gBgOEeaSmcCkFFv7Tg" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_7Sdm0BgOEeaSmcCkFFv7Tg" type="NameLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_7Sdm0hgOEeaSmcCkFFv7Tg" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_7Sdm0xgOEeaSmcCkFFv7Tg" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7Sdm0RgOEeaSmcCkFFv7Tg" y="-186"/>
+    </children>
+    <element xmi:type="uml:InterfaceRealization" href="mmi:///#jimpl%5Bjsrctype%5Ename=UserGroup%5Bjcu%5Ename=UserGroup.java%5Bjpack%5Ename=ac.sari.cdmvs.dal.bean%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CDMVS-DAL%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=IBean%5Bjcu%5Ename=IBean.java%5Bjpack%5Ename=ac.sari.cdmvs.dal.bean%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CDMVS-DAL%5D%5D%5D%5D%5D$uml.InterfaceRealization"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_7Sc_wRgOEeaSmcCkFFv7Tg" points="[1242, 315, -7259, -2853]$[2838, 315, -5663, -2853]$[2838, 2475, -5663, -693]$[7471, 2475, -1030, -693]"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_9FXH0BgOEeaSmcCkFFv7Tg" visible="false" source="_a3XfYBgMEeaSmcCkFFv7Tg" target="_yQt5gBgOEeaSmcCkFFv7Tg" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_9FXH0hgOEeaSmcCkFFv7Tg" type="NameLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_9FXH1BgOEeaSmcCkFFv7Tg" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_9FXH1RgOEeaSmcCkFFv7Tg" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9FXH0xgOEeaSmcCkFFv7Tg" y="-186"/>
+    </children>
+    <element xmi:type="uml:InterfaceRealization" href="mmi:///#jimpl%5Bjsrctype%5Ename=FileInfo%5Bjcu%5Ename=FileInfo.java%5Bjpack%5Ename=ac.sari.cdmvs.dal.bean%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CDMVS-DAL%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=IBean%5Bjcu%5Ename=IBean.java%5Bjpack%5Ename=ac.sari.cdmvs.dal.bean%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CDMVS-DAL%5D%5D%5D%5D%5D$uml.InterfaceRealization"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_9FXH0RgOEeaSmcCkFFv7Tg" points="[39, -18, -186, 77]$[218, -125, -7, -30]"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_X2C8EBgPEeaSmcCkFFv7Tg" visible="false" type="OwnedElement" source="_aG7g8BgMEeaSmcCkFFv7Tg" target="_X19cgBgPEeaSmcCkFFv7Tg" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_X2C8ERgPEeaSmcCkFFv7Tg" points="[1458, 937, -6348, -5987]$[1458, 3462, -6348, -3462]$[6883, 3462, -923, -3462]$[6883, 6106, -923, -818]"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_VN6mwBgQEeaSmcCkFFv7Tg" visible="false" type="OwnedElement" source="_aG7g8BgMEeaSmcCkFFv7Tg" target="_VN1HMBgQEeaSmcCkFFv7Tg" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_VN6mwRgQEeaSmcCkFFv7Tg" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_WlmLYBgQEeaSmcCkFFv7Tg" visible="false" source="_VN1HMBgQEeaSmcCkFFv7Tg" target="_yQt5gBgOEeaSmcCkFFv7Tg" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_WlmycBgQEeaSmcCkFFv7Tg" type="NameLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_WlmychgQEeaSmcCkFFv7Tg" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_WlmycxgQEeaSmcCkFFv7Tg" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WlmycRgQEeaSmcCkFFv7Tg" y="-186"/>
+    </children>
+    <element xmi:type="uml:InterfaceRealization" href="mmi:///#jimpl%5Bjsrctype%5Ename=CollectionCatalog%5Bjcu%5Ename=CollectionCatalog.java%5Bjpack%5Ename=ac.sari.cdmvs.dal.bean%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CDMVS-DAL%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=IBean%5Bjcu%5Ename=IBean.java%5Bjpack%5Ename=ac.sari.cdmvs.dal.bean%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CDMVS-DAL%5D%5D%5D%5D%5D$uml.InterfaceRealization"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_WlmLYRgQEeaSmcCkFFv7Tg" points="[7, 66, -6395, -5914]$[7, 3567, -6395, -2413]$[5938, 3567, -464, -2413]$[5938, 5162, -464, -818]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_YW1fgBgQEeaSmcCkFFv7Tg" id="(0.9412270642201835,0.9597932222860425)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_At3NoBgREeaSmcCkFFv7Tg" visible="false" type="OwnedElement" source="_aG7g8BgMEeaSmcCkFFv7Tg" target="_AtxuEBgREeaSmcCkFFv7Tg" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_At3NoRgREeaSmcCkFFv7Tg" points="[-1188, 937, 5625, -8871]$[-1188, 4904, 5625, -4904]$[-7009, 4904, -196, -4904]$[-7009, 8990, -196, -818]"/>
+  </edges>
+  <layers xmi:id="_WSatgBgMEeaSmcCkFFv7Tg" name="bean" visible="false" locked="true" views="_aG7g8BgMEeaSmcCkFFv7Tg _a3XfYBgMEeaSmcCkFFv7Tg _a4s8IBgMEeaSmcCkFFv7Tg _bhW3kBgMEeaSmcCkFFv7Tg _bhmIIBgMEeaSmcCkFFv7Tg _cD484BgMEeaSmcCkFFv7Tg _cEFxMBgMEeaSmcCkFFv7Tg _hbIuYBgMEeaSmcCkFFv7Tg _hbQDIBgMEeaSmcCkFFv7Tg _AtxuEBgREeaSmcCkFFv7Tg _2j7bIBgOEeaSmcCkFFv7Tg _yQt5gBgOEeaSmcCkFFv7Tg _CQlE8BgOEeaSmcCkFFv7Tg _X19cgBgPEeaSmcCkFFv7Tg _VN1HMBgQEeaSmcCkFFv7Tg"/>
+  <layers xmi:id="_TrNL8BgSEeaSmcCkFFv7Tg" name="dao" views="_cnVBIBgMEeaSmcCkFFv7Tg"/>
+  <layers xmi:id="_U6QZABgSEeaSmcCkFFv7Tg" name="db" visible="false" locked="true" views="_c9rroBgMEeaSmcCkFFv7Tg"/>
+</umlnotation:UMLDiagram>
